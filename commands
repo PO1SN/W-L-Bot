@@ -1,0 +1,7 @@
+#This file contains all of the commands that are planned to be added within W-L-Bot
+
+- //commands (pings in chat and directs you to this file). 
+- //@{playername} W (Sets the winning players last match to a Win).
+- //@{playername} L (Sets the losing players last match to a Loss). 
+- //@{playername},@{playername} D (Sets both players last match as a Draw).
+- //@{playername} Stats (Displays the current ELO of a player, Win/Loss ratio, etc.
